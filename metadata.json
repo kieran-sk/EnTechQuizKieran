@@ -1,0 +1,5 @@
+{
+  "name": "Energy Quiz PWA",
+  "description": "A progressive web application for Energy Technology quizzes with offline capabilities, admin editor, and real-time synchronization.",
+  "requestFramePermissions": []
+}
